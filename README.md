@@ -1,12 +1,12 @@
-Pointer-Based Array Display
+# Pointer-Based Array Display
 
 This C++ program demonstrates how to use a pointer to traverse and display elements of an array.
 
-💻 Language
+# 💻 Language
 
 C++
 
-📋 Description
+# 📋 Description
 
 The program:
 
@@ -16,7 +16,7 @@ Uses a pointer to traverse the array
 
 Prints each element using pointer dereferencing
 
-🧪 Sample Output
+# 🧪 Sample Output
 
 The entered elements are:
 
@@ -30,14 +30,14 @@ The entered elements are:
 
 5
 
-🛠️ How to Run
+# 🛠️ How to Run
 
 Compile with a C++ compiler like g++:
 
 g++ pointer_array.cpp -o pointer_array
 ./pointer_array
 
-🌱 What I Learned
+# 🌱 What I Learned
 
 Using pointers to access array elements
 
