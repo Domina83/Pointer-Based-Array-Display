@@ -18,12 +18,6 @@ Prints each element using pointer dereferencing
 
 🧪 Sample Output
 
-sql
-
-Copy
-
-Edit
-
 The entered elements are:
 
 1
@@ -39,12 +33,6 @@ The entered elements are:
 🛠️ How to Run
 
 Compile with a C++ compiler like g++:
-
-bash
-
-Copy
-
-Edit
 
 g++ pointer_array.cpp -o pointer_array
 ./pointer_array
