@@ -34,10 +34,11 @@ The entered elements are:
 
 Compile with a C++ compiler like g++:
 
+bash
 g++ pointer_array.cpp -o pointer_array
 ./pointer_array
 
-# 🌱 What I Learned
+🌱 What I Learned
 
 Using pointers to access array elements
 
